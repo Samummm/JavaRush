@@ -1,2 +1,2 @@
 # JavaRush
-JavaRush - javarush.com 
+## https://javarush.com/ - Решение всех задач курса
